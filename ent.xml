@@ -4,9 +4,38 @@
   <dict>
     <key>keychain-access-groups</key>
     <array>
+      
       <string>apple</string>
+      <string>appleaccount</string>
+      <string>com.apple.ProtectedCloudStorage</string>
+      <string>com.apple.applesse</string>
+      <string>com.apple.apsd</string>
+      <string>com.apple.certificates</string>
+      <string>com.apple.hap.pairing</string>
+      <string>com.apple.suggestions.mail-intelligence</string>
+      <string>com.apple.transparencyd</string>
+      <string>lockdown-identities</string>
+      <string>searchpartyd-baa-fmna-group</string>
+      <string>com.apple.apsd</string>
+      <string>com.apple.sharing.appleidauthentication</string>
+      <string>lockdown-identities</string>
+      <string>com.apple.ProtectedCloudStorage</string>
+      <string>com.apple.security.ckks</string>
+      <string>com.apple.security.octagon</string>
+      <string>com.apple.security.sos-usercredential</string>
+      <string>2bit-identity</string>
+      <string>MH9GU9K5PX.platformFamily</string>
+      <string>apple</string>
+      <string>com.apple.apsd</string>
+      <string>com.apple.certificates</string>
+      <string>com.apple.routined</string>
+      <string>com.apple.security.egoIdentities</string>
+      <string>com.apple.security.octagon</string>
+      <string>com.apple.sharing.appleidauthentication</string>
+      <string>com.apple.transparencyd</string>
+      <string>lockdown-identities</string>
     </array>
     <key>platform-application</key> <true/>
-    <key>com.apple.private.security.no-container</key> <true/>
+    <key>com.apple.private.security.no-container</key>  <true/>
   </dict>
 </plist>
